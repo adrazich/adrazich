@@ -4,7 +4,7 @@ I'm a Software Engineer who loves crafting accessible, responsive, and beautiful
 
 🌱 **Currently Learning:** Unity  
 🎯 **Looking for:** Frontend Software Engineer opportunities  
-💡 **Tech I Love Working With:** React, Vue, TypeScript, Storybook
+💡 **Tech I ❤️:** React, Vue, TypeScript, Storybook
 
 ---
 
