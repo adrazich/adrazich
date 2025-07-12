@@ -2,7 +2,8 @@
 
 I'm a Software Engineer who loves crafting accessible, responsive, and beautiful user experiences.
 
-🌱 **Currently Learning:** ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat)  
+🌱 **Currently Learning:** ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white&style=flat)
 🎯 **Looking for:** Frontend Software Engineer opportunities  
 💡 **Tech I ❤️:** ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white&style=flat) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white&style=flat)
 
